@@ -2,7 +2,7 @@ package com.singleton.simple;
 
 public class SimpleSingle {
 
-    // 创建 com.singleton.simple.SingleObject 对象
+    // 创建 com.singleton.simple.SimpleSingle 对象
     private static SimpleSingle instance = new SimpleSingle();
 
     // 构造函数为 private，防止该类被实例化
